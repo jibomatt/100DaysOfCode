@@ -1,0 +1,11 @@
+name=input("Enter your name:-")
+address=input("enter your address:-")
+gender= input("enter your gender:-")
+age=int(input("enter your age"))
+email=input("enter your email:-")
+
+print(name)
+print(address)
+print(gender)
+print(age)
+print(email)

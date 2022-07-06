@@ -1,6 +1,6 @@
 if __name__ == '__main__':
     s = input()
-    res = ["false" , "false" , "false" , "false" , "false"]
+    res = ["False" , "False" , "False" , "False" , "False"]
     for i in s:
         if i.isalnum():
             res[0] = "True"
